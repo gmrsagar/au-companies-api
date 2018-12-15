@@ -1,5 +1,5 @@
 {
-  "name": "Aus companies",
+  "name": "Aus-companies",
   "description": "Update Airtable from GitHub API",
   "version": "0.1.3",
   "main": "index.js",
