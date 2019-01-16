@@ -1,6 +1,6 @@
 # AU Companies API
 
-Simple API to process diffs from [au-companies-providing-work-visa-sponsorship](https://github.com/gmrsagar/au-companies-providing-work-visa-sponsorship) and push it into an [Airtable](https://airtable.com/shrgB7IeiaGmIkGug).
+Simple API to process diffs from [au-companies-providing-work-visa-sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship) and push it into an [Airtable](https://airtable.com/shrgB7IeiaGmIkGug).
 ```
 
 Set the following environment variables and start the application using `yarn start`
