@@ -29,7 +29,7 @@ Run a command using `yarn <command:name>`
 
 ### License
 
-tech-companies-in-nepal-api is under [MIT License](LICENSE.md).
+au-companies-api is under [MIT License](LICENSE.md).
 
 ---
 
